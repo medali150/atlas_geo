@@ -2,6 +2,24 @@
 
 Une application mobile interactive pour découvrir les pays du monde avec leurs informations détaillées.
 
+## 📸 Captures d'Écran
+
+<div align="center">
+  <img src="assets/screens/image.png" width="200" alt="Écran d'accueil" />
+  <img src="assets/screens/image1.png" width="200" alt="Liste des pays" />
+  <img src="assets/screens/image2.png" width="200" alt="Détails du pays" />
+  <img src="assets/screens/image3.png" width="200" alt="Menu drawer" />
+  <img src="assets/screens/image4.png" width="200" alt="À propos" />
+</div>
+
+### Description des Écrans
+
+- **Écran d'accueil** : Page de bienvenue avec globe et bouton "Explorer"
+- **Liste des pays** : Affichage de tous les pays avec drapeaux circulaires et navigation drawer
+- **Détails du pays** : Informations complètes avec drapeau, capitale, population, superficie et langue
+- **Menu drawer** : Navigation latérale avec accès à toutes les sections
+- **À propos** : Informations sur l'application
+
 ## 📱 Fonctionnalités
 
 - **Page d'accueil** : Écran de bienvenue avec un globe et un bouton pour explorer

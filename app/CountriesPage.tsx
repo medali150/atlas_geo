@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
   countryItem: {
     flexDirection: 'row',
     padding: 16,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffffffff',
     marginVertical: 1,
   },
   flagContainer: {

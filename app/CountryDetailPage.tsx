@@ -136,6 +136,6 @@ const styles = StyleSheet.create({
   },
   infoLabel: {
     fontSize: 14,
-    color: '#999',
+    color: '#2cf608ff',
   },
 });
